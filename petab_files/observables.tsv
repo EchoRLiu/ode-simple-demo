@@ -1,0 +1,2 @@
+observableId	observableFormula	noiseFormula	noiseDistribution	observableTransformation
+obs_GFP	observableParameter1_obs_GFP*Protein + observableParameter2_obs_GFP	noiseParameter1_obs_GFP	normal	lin

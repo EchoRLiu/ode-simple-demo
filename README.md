@@ -1,0 +1,1 @@
+Data: Fröhlich, F., Reiser, A., Fink, L. et al. Multi-experiment nonlinear mixed effect modeling of single-cell translation kinetics after transfection. npj Syst Biol Appl 4, 42 (2018). https://doi.org/10.1038/s41540-018-0079-7

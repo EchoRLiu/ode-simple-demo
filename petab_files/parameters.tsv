@@ -1,0 +1,9 @@
+parameterId	parameterName	parameterScale	lowerBound	upperBound	nominalValue	estimate	parameterType
+delta_param	mRNA_degradation	log10	1e-05	100000.0	0.1	1	
+k_1	Translation_rate	log10	1e-05	100000.0	1.0	1	
+gamma_eGFP	Protein_deg_eGFP	log10	1e-05	100000.0	0.01	1	
+t_0	Transfection_time	log10	1e-05	100000.0	0.3	1	
+m_0	Initial_mRNA_amount	log10	1e-05	100000.0	5000.0	1	
+scaling	scaling_parameter	lin	1e-05	100000.0	100.0	1	scaling
+offset	Offset	log10	1e-05	100000.0	0.1	1	offset
+sigma	Noise_SD	lin	0.0	inf	0.1	1	sigma
