@@ -62,8 +62,8 @@ This tutorial uses single-cell fluorescence microscopy data from:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/ode-parameter-estimation-tutorial.git
-   cd ode-parameter-estimation-tutorial
+   git clone https://github.com/echorliu/ode-simple-demo.git
+   cd ode-simple-demo
    ```
 
 2. **Create a virtual environment (recommended):**
